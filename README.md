@@ -1,2 +1,2 @@
 # Color-Maker
-Udacity iOS Development UIKit Fundamentals Mini-Project
+Udacity iOS Development UIKit Fundamentals Outlet and Actions Mini-Project
