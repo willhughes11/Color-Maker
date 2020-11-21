@@ -1,0 +1,7 @@
+https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?CMC_PRO_API_KEY=664d22ac-4c54-42a0-86d5-13b8239469d3&sort=market_cap&start=1&limit=10&cryptocurrency_type=tokens&convert=USD
+    
+https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/info?CMC_PRO_API_KEY=b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c&id=1
+        
+https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY=b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c
+
+https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?CMC_PRO_API_KEY=b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c
